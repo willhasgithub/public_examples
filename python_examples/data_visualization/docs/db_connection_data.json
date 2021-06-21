@@ -1,0 +1,8 @@
+{
+  "dialect_and_driver": "postgresql",
+  "user": "postgres",
+  "password": "T@k3H0m3",
+  "host": "localhost",
+  "port": "5432",
+  "db_name": "postgres"
+}
